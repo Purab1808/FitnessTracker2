@@ -1,0 +1,39 @@
+
+.food{
+    padding-top: 100px;
+    display: flex;
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-right: 200px;
+}
+.pic1 img{
+    height: 600px;
+    width: 1500px;
+    margin-right: 100px;
+}
+.con1{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    padding-left: 50px;
+}
+.con1 h3{
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+.con1 p{
+    padding-left: 50px;
+    color: grey;
+}
+.learn{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.change{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
