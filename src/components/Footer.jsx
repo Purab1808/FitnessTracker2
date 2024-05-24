@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
         <div>
           <h1 className=" font-medium text-xl mt-4">Address</h1>
-          <p className=" mt-4">chitkara university ,near jansla village  ,patiala national hightway,punjab</p>
+          <p className=" mt-4">Chitkara University , Near Jansla Village  , Patiala National Highway , Punjab</p>
         </div>
         <div>
           <h1 className=" font-medium text-xl mt-4">Contact</h1>
@@ -25,7 +25,7 @@ const Footer = () => {
             <AiTwotonePhone size={20} />
             <p>9142767825</p>
             <p>8168995334</p>
-            <p>+917618625352</p>
+            <p>7618625352</p>
           </div>
           <div className=" flex flex-row items-center gap-2">
             <AiOutlineMail size={20} />

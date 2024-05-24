@@ -8,7 +8,7 @@ import Trainers from "./components/Trainers";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Feature from "./components/Features";
-import Quiz from "./components/Quiz";
+import Quiz from "./components/Calorie";
 
 const App = () => {
   return (

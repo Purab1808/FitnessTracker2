@@ -1,0 +1,56 @@
+.calorie-calculator {
+    width: 800px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: rgb(255, 0, 0) 0px 0px 0px 7px;
+    margin-top: 200px; 
+    margin-left: 300px;
+    margin-bottom:200px ;
+  }
+  
+  .calorie-calculator h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: black; /* Set heading color to black */
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    color: black; /* Set input text color to black */
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: black; /* Set label color to black */
+  }
+  
+  .calculate-button {
+    background-color: #af4c4c;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .calculate-button:hover {
+    background-color: #ff0000;
+  }
+  
+  .result {
+    font-size: 16px;
+    margin-top: 15px;
+    color: black; /* Set result text color to black */
+  }
+  
